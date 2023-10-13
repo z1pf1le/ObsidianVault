@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21cc67b69d10c750",
+        "id": "e4318f3ab3903217",
         "type": "tabs",
         "children": [
           {
-            "id": "532daf157528e709",
+            "id": "5f12ea6775100fca",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,39 +16,11 @@
             }
           },
           {
-            "id": "fd706751801ca833",
+            "id": "4eba6e9b5bbbdddf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "конструктор.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e03fbbafd8724ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "метод класса.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e1e013475e22785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "экземпляр класса.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -118,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "конструктор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "конструктор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "конструктор.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,20 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a97f49bc04ebb50",
+  "active": "4eba6e9b5bbbdddf",
   "lastOpenFiles": [
-    "инициализатор.md",
-    "Ключевое слово this.md",
-    "анотация @override.md",
-    "метод класса.md",
+    "Protected.md",
+    "Модификаторы доступа.md",
+    "конструктор.md",
+    "Наследование.md",
+    "Дочерний класс.md",
+    "Инкапсуляция.md",
     "экземпляр класса.md",
+    "метод класса.md",
     "ООП.md",
-    "дочерний класс.md",
+    "Ключевое слово this.md",
+    "2023-10-13.md",
+    "абстрактный класс.md",
+    "анотация @override.md",
+    "инициализатор.md",
     "родительский класс.md",
     "Классы.md",
-    "абстрактный класс.md",
     "Java.md",
-    "конструктор.md",
     "home/andrei/Documents/Obsidian Vault/images.md",
     "home/andrei/Documents/Obsidian Vault",
     "home/andrei/Documents",
@@ -211,10 +184,6 @@
     "суперкласс object.md",
     "типы данных.md",
     "ссылочные",
-    "наследование.md",
-    "полиморфизм.md",
-    "Модификаторы доступа.md",
-    "Java_OOP.md",
     "Untitled.canvas",
     "OOP"
   ]
