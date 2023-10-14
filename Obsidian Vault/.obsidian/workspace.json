@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4318f3ab3903217",
+        "id": "87bd4af7853ad580",
         "type": "tabs",
         "children": [
           {
-            "id": "5f12ea6775100fca",
+            "id": "a5707eee989f9539",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4eba6e9b5bbbdddf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Модификаторы доступа.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Модификаторы доступа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Модификаторы доступа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Модификаторы доступа.md"
+              }
             }
           }
         ]
@@ -147,23 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eba6e9b5bbbdddf",
+  "active": "a5707eee989f9539",
   "lastOpenFiles": [
-    "Protected.md",
     "Модификаторы доступа.md",
+    "Пакеты.md",
+    "ООП.md",
+    "Статическая переменная_поле.md",
+    "Final.md",
+    "Статический инициализатор.md",
+    "Protected.md",
+    "Родительский класс.md",
+    "Untitled",
+    "Экземпляр класса.md",
+    "Сеттеры.md",
+    "Геттеры.md",
     "конструктор.md",
     "Наследование.md",
     "Дочерний класс.md",
     "Инкапсуляция.md",
-    "экземпляр класса.md",
     "метод класса.md",
-    "ООП.md",
     "Ключевое слово this.md",
     "2023-10-13.md",
     "абстрактный класс.md",
     "анотация @override.md",
     "инициализатор.md",
-    "родительский класс.md",
     "Классы.md",
     "Java.md",
     "home/andrei/Documents/Obsidian Vault/images.md",
@@ -176,13 +182,7 @@
     "Untitled Folder",
     "Интерфейсы.md",
     "Перечисления.md",
-    "Аннотации.md",
     "Интерфейсы",
-    "ArrayList.md",
-    "ссылочные.md",
-    "значимые.md",
-    "суперкласс object.md",
-    "типы данных.md",
     "ссылочные",
     "Untitled.canvas",
     "OOP"
