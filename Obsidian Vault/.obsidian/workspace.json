@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "87bd4af7853ad580",
+        "id": "b1ebb59e24462108",
         "type": "tabs",
         "children": [
           {
-            "id": "a5707eee989f9539",
+            "id": "02ca0409f07ccbe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Модификаторы доступа.md",
+                "file": "Полиморфизм.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "298396be0427768f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Статический.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04073fab1c2fb54a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Димнамический.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "поли",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Модификаторы доступа.md",
+                "file": "Димнамический.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Модификаторы доступа.md",
+                "file": "Димнамический.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Модификаторы доступа.md"
+                "file": "Димнамический.md"
               }
             }
           }
@@ -146,33 +171,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5707eee989f9539",
+  "active": "04073fab1c2fb54a",
   "lastOpenFiles": [
-    "Модификаторы доступа.md",
-    "Пакеты.md",
+    "Статический.md",
+    "Димнамический.md",
+    "Полиморфизм.md",
+    "Контракт equals_hashcode.md",
     "ООП.md",
-    "Статическая переменная_поле.md",
-    "Final.md",
-    "Статический инициализатор.md",
-    "Protected.md",
-    "Родительский класс.md",
-    "Untitled",
-    "Экземпляр класса.md",
-    "Сеттеры.md",
-    "Геттеры.md",
-    "конструктор.md",
-    "Наследование.md",
-    "Дочерний класс.md",
-    "Инкапсуляция.md",
-    "метод класса.md",
-    "Ключевое слово this.md",
-    "2023-10-13.md",
-    "абстрактный класс.md",
+    "С параметрами.md",
+    "Абстрактный класс.md",
+    "Аннотации.md",
+    "Перечисления.md",
+    "Итератор.md",
+    "ArrayList.md",
+    "Внутренний(вложенный) класс.md",
+    "Константа.md",
+    "Пакеты.md",
+    "This.md",
+    "По умолчанию.md",
+    "значимые.md",
+    "Модификаторы доступа.md",
+    "Инициализатор.md",
+    "Конструктор.md",
     "анотация @override.md",
-    "инициализатор.md",
-    "Классы.md",
-    "Java.md",
-    "home/andrei/Documents/Obsidian Vault/images.md",
+    "Типы данных.md",
+    "Метод класса.md",
+    "Поле класса.md",
+    "Дочерний класс.md",
+    "Protected.md",
+    "Untitled",
     "home/andrei/Documents/Obsidian Vault",
     "home/andrei/Documents",
     "home/andrei",
@@ -180,8 +207,6 @@
     "images/Screenshot from 2023-10-12 11-58-44.png",
     "images",
     "Untitled Folder",
-    "Интерфейсы.md",
-    "Перечисления.md",
     "Интерфейсы",
     "ссылочные",
     "Untitled.canvas",
