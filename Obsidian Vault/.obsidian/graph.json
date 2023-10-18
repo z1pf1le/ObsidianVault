@@ -8,37 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "ООП",
+      "query": "Классы",
       "color": {
         "a": 1,
-        "rgb": 14701180
+        "rgb": 14701138
       }
     },
     {
-      "query": "Модификаторы доступа",
+      "query": "Access и non-access модификаторы",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "Java",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
+        "rgb": 5431425
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -0.7,
-  "nodeSizeMultiplier": 0.993229166666667,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.75885416666667,
   "lineSizeMultiplier": 1.2484375,
   "collapse-forces": false,
-  "centerStrength": 0.104166666666667,
-  "repelStrength": 9.375,
-  "linkStrength": 0.598958333333333,
-  "linkDistance": 243,
-  "scale": 1.0534979423868236,
+  "centerStrength": 0.442708333333333,
+  "repelStrength": 16.25,
+  "linkStrength": 0.96875,
+  "linkDistance": 211,
+  "scale": 0.7023319615912125,
   "close": true
 }
