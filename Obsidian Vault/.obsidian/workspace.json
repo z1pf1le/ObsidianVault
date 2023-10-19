@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интерфейсы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интерфейсы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Интерфейсы.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +150,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "925a6f0aad9dfef1",
+  "active": "e35ee0380ba9773a",
   "lastOpenFiles": [
+    "Интерфейсы.md",
     "Финализированный класс.md",
     "Перечисления.md",
     "Абстракция.md",
@@ -174,7 +170,6 @@
     "Значимые(примитивные).md",
     "Untitled",
     "Static.md",
-    "Интерфейсы.md",
     "Default.md",
     "Protected.md",
     "Public.md",
