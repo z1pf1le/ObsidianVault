@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46f5590699d9ea3a",
+        "id": "494129e2a4f96ca9",
         "type": "tabs",
         "children": [
           {
-            "id": "a03c8828c25525a4",
+            "id": "e35ee0380ba9773a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,36 +16,12 @@
             }
           },
           {
-            "id": "7d91b20e5363df7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Static.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4496febd43fce0d9",
+            "id": "925a6f0aad9dfef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Интерфейсы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "738bf2729ed5e3c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Абстрактный класс.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Static.md",
+                "file": "Интерфейсы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Static.md",
+                "file": "Интерфейсы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Static.md"
+                "file": "Интерфейсы.md"
               }
             }
           }
@@ -179,35 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d91b20e5363df7d",
+  "active": "925a6f0aad9dfef1",
   "lastOpenFiles": [
+    "Финализированный класс.md",
+    "Перечисления.md",
+    "Абстракция.md",
     "Абстрактный класс.md",
-    "Интерфейсы.md",
+    "Простой внутренний класс.md",
+    "Нестатические вложенные классы.md",
+    "Статический вложенный класс.md",
+    "Локальный класс.md",
+    "Статическая переменная_поле.md",
+    "Статический.md",
+    "Final.md",
+    "Внутренний(вложенный) класс.md",
+    "Классы обертки.md",
+    "Автоупаковка(автораспаковка).md",
+    "Значимые(примитивные).md",
+    "Untitled",
     "Static.md",
+    "Интерфейсы.md",
     "Default.md",
     "Protected.md",
     "Public.md",
     "Private.md",
     "Анонимный вложенный класс.md",
-    "Локальный класс.md",
-    "Простой внутренний класс.md",
-    "Статический вложенный класс.md",
-    "Перечисления.md",
-    "Финализированный класс.md",
     "Обычный класс.md",
-    "Final.md",
-    "Нестатические вложенные классы.md",
     "Non-access модификаторы.md",
     "Volatile.md",
     "Transient.md",
-    "Abstract.md",
-    "Syncronized.md",
-    "Дочерний класс.md",
-    "Константа.md",
-    "Java.md",
-    "Внутренний(вложенный) класс.md",
-    "Классы.md",
-    "Untitled",
     "Финализированный класс",
     "Виды классов",
     "home/andrei/Documents/Obsidian Vault",
