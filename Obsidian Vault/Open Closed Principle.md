@@ -36,3 +36,7 @@ interface SaveInerface {
     void save(String path, Computer cmp);  
 }
 ```
+
+Поведение наследующих классов не должно противоречить поведению заданному базовым классом.
+
+

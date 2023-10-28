@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f90dd34ba53a997",
+            "id": "888bc17196aa135b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,30 +16,19 @@
             }
           },
           {
-            "id": "4a2b2d5b83a842c8",
+            "id": "e371c60caa017c21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Closed Principle.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd398562824999e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Single Responsibility Principle.md",
-                "mode": "preview",
+                "file": "Приведение типов.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Приведение типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Приведение типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Приведение типов.md"
+              }
             }
           }
         ]
@@ -162,35 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f90dd34ba53a997",
+  "active": "e371c60caa017c21",
   "lastOpenFiles": [
-    "Open Closed Principle.md",
-    "Интерфейсы.md",
-    "Single Responsibility Principle.md",
-    "Solid.md",
-    "Статический вложенный класс.md",
-    "Анонимный вложенный класс.md",
-    "Static.md",
-    "Локальный класс.md",
-    "Автоупаковка.md",
     "Автораспаковка.md",
-    "Классы обертки.md",
-    "Неявное.md",
-    "Явное.md",
-    "Классы_обертки.md",
-    "Abstract.md",
-    "Классы_обертки",
-    "Приведение типов.md",
-    "Private.md",
-    "Protected.md",
-    "Перечисления.md",
-    "Статическая переменная_поле.md",
+    "Автоупаковка.md",
+    "Загрузчик классов.md",
+    "JVM.md",
+    "JVM.md",
+    "Набор стандартных библиотек.md",
+    "Библиотека классов Java.md",
+    "Javac.md",
+    "JDK.md",
+    "JRE.md",
+    "Single Responsibility Principle.md",
+    "Interface Segregation Principle.md",
+    "Open Closed Principle.md",
+    "Dependency inversion Principle.md",
+    "Liskov Substitution Principle.md",
+    "Полиморфизм.md",
     "Статический.md",
-    "Default.md",
-    "Public.md",
-    "Простой внутренний класс.md",
-    "Нестатические вложенные классы.md",
-    "Финализированный класс.md",
+    "Димнамический.md",
+    "Проверяемые.md",
+    "Error.md",
+    "RuntimeExceptioln.md",
+    "Throwable.md",
+    "Непроверяемые.md",
+    "Exception.md",
+    "IOException.md",
+    "Protected.md",
+    "Классы_обертки",
     "Финализированный класс",
     "Виды классов",
     "home/andrei/Documents/Obsidian Vault",
