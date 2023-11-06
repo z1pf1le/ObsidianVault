@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "b53ab08caea3530c",
+            "id": "e080b4cadeb3644b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сериализация.md",
+                "file": "Try с ресурсами.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сериализация.md",
+                "file": "Try с ресурсами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Сериализация.md",
+                "file": "Try с ресурсами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сериализация.md"
+                "file": "Try с ресурсами.md"
               }
             }
           }
@@ -155,8 +155,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b53ab08caea3530c",
+  "active": "e080b4cadeb3644b",
   "lastOpenFiles": [
+    "Try с ресурсами.md",
+    "Throwable.md",
+    "Exception.md",
+    "IOException.md",
+    "Проверяемые.md",
+    "Рефлексия.md",
     "Сериализация.md",
     "For-each.md",
     "Статический вложенный класс.md",
@@ -177,12 +183,6 @@
     "JDK.md",
     "Полиморфизм.md",
     "Загрузчик классов.md",
-    "JVM.md",
-    "JVM.md",
-    "Набор стандартных библиотек.md",
-    "Библиотека классов Java.md",
-    "Javac.md",
-    "JRE.md",
     "Классы_обертки",
     "Финализированный класс",
     "Виды классов",
