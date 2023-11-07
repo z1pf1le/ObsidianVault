@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "Дженерики",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": false,
