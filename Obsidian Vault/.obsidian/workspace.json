@@ -16,30 +16,19 @@
             }
           },
           {
-            "id": "13330ad12ca4ac00",
+            "id": "dc9fac2b8c4ece16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сырые типы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d84e57f501395b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статический вложенный класс.md",
+                "file": "Serializable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Serializable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Serializable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Serializable.md"
+              }
             }
           }
         ]
@@ -162,34 +155,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e76dc0d21a551b78",
+  "active": "dc9fac2b8c4ece16",
   "lastOpenFiles": [
+    "linux_commands/1",
+    "linux_commands",
+    "FileInputStream.md",
+    "ObjectInputStream.md",
+    "ObjectOutputStream.md",
+    "Try с ресурсами.md",
+    "FileOutputStream.md",
+    "Сериализация.md",
+    "Externalizable.md",
+    "Serializable.md",
+    "Рефлексия.md",
     "Статический вложенный класс.md",
     "Типизированные типы.md",
     "Сырые типы.md",
     "Статический.md",
     "Локальный класс.md",
     "Дженерики.md",
-    "Externalizable.md",
-    "Serializable.md",
-    "Сериализация.md",
-    "Try с ресурсами.md",
     "Throwable.md",
     "Exception.md",
     "IOException.md",
     "Проверяемые.md",
-    "Рефлексия.md",
     "For-each.md",
     "Простой внутренний класс.md",
     "Лупы.md",
     "Private.md",
     "Protected.md",
     "Static.md",
-    "Анонимный вложенный класс.md",
-    "Обычный класс.md",
-    "Явное приведение типов.md",
-    "Неявное приведение типов.md",
-    "Приведение типов.md",
     "Классы_обертки",
     "Финализированный класс",
     "Виды классов",
@@ -200,7 +194,6 @@
     "images/Screenshot from 2023-10-12 11-58-44.png",
     "images",
     "Untitled Folder",
-    "Интерфейсы",
     "Untitled.canvas"
   ]
 }
