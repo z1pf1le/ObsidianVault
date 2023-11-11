@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "dc9fac2b8c4ece16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serializable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serializable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serializable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Serializable.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +138,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc9fac2b8c4ece16",
+  "active": "e76dc0d21a551b78",
   "lastOpenFiles": [
+    "ThreeSet.md",
+    "SortedSet.md",
+    "Set.md",
+    "HashSet.md",
+    "LinkedHashSet.md",
+    "ArrayDeque.md",
+    "Deque.md",
+    "PriorityQueue.md",
+    "Stack.md",
+    "Vector.md",
+    "LinkedList.md",
+    "Queue.md",
+    "List.md",
+    "Collection.md",
+    "Iterable.md",
+    "Коллекции.md",
+    "ArrayList.md",
+    "Типы данных.md",
+    "ссылочные.md",
+    "Дженерики.md",
+    "Serializable.md",
     "linux_commands/1",
     "linux_commands",
     "FileInputStream.md",
@@ -164,26 +168,6 @@
     "ObjectOutputStream.md",
     "Try с ресурсами.md",
     "FileOutputStream.md",
-    "Сериализация.md",
-    "Externalizable.md",
-    "Serializable.md",
-    "Рефлексия.md",
-    "Статический вложенный класс.md",
-    "Типизированные типы.md",
-    "Сырые типы.md",
-    "Статический.md",
-    "Локальный класс.md",
-    "Дженерики.md",
-    "Throwable.md",
-    "Exception.md",
-    "IOException.md",
-    "Проверяемые.md",
-    "For-each.md",
-    "Простой внутренний класс.md",
-    "Лупы.md",
-    "Private.md",
-    "Protected.md",
-    "Static.md",
     "Классы_обертки",
     "Финализированный класс",
     "Виды классов",
@@ -193,7 +177,6 @@
     "home",
     "images/Screenshot from 2023-10-12 11-58-44.png",
     "images",
-    "Untitled Folder",
     "Untitled.canvas"
   ]
 }
