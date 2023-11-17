@@ -1,5 +1,5 @@
 
-[[Лупы]]
+[[Collection]]
 ```java
 
   

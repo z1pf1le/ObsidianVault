@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "cd75ca03c3e61ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HashSet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HashSet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HashSet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HashSet.md"
+              }
             }
           }
         ]
@@ -138,36 +155,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e76dc0d21a551b78",
+  "active": "cd75ca03c3e61ccb",
   "lastOpenFiles": [
+    "EnumSet.md",
+    "CopyOnWriteArraySet.md",
     "ThreeSet.md",
-    "SortedSet.md",
-    "Set.md",
     "HashSet.md",
+    "AbstractSet.md",
+    "Ser.md",
+    "AbstractCollection.md",
     "LinkedHashSet.md",
-    "ArrayDeque.md",
+    "Collection.md",
+    "Iterator.md",
+    "For-each.md",
+    "Map.md",
+    "WeakHashMap.md",
+    "LinkedHashMap.md",
+    "TreeMap.md",
+    "HashMap.md",
+    "Hashtable.md",
+    "fail-safe.md",
+    "fail-fast.md",
     "Deque.md",
     "PriorityQueue.md",
-    "Stack.md",
-    "Vector.md",
-    "LinkedList.md",
     "Queue.md",
-    "List.md",
-    "Collection.md",
+    "java.util.Collections.md",
+    "java.util.Collection.md",
     "Iterable.md",
-    "Коллекции.md",
-    "ArrayList.md",
-    "Типы данных.md",
-    "ссылочные.md",
-    "Дженерики.md",
-    "Serializable.md",
+    "Сырые типы.md",
     "linux_commands/1",
     "linux_commands",
-    "FileInputStream.md",
-    "ObjectInputStream.md",
-    "ObjectOutputStream.md",
-    "Try с ресурсами.md",
-    "FileOutputStream.md",
     "Классы_обертки",
     "Финализированный класс",
     "Виды классов",
