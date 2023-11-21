@@ -17,7 +17,7 @@ public class FailFastAndSafe{
         while (iterator.hasNext()){  
             String server = iterator.next();  
             System.out.println(server);  
-            //servers.add("Jetty"); //provokes an exception
+            servers.add("Jetty"); //provokes an exception
         }  
     }  
 }
