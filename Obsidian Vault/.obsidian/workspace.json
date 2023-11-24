@@ -16,78 +16,19 @@
             }
           },
           {
-            "id": "d5cd29cf5c094539",
+            "id": "b25d95304209e170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функция.md",
+                "file": "Лямбда-выражения.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58e515cd17bf8087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Потребитель.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e009c61a2bb80080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Поставщик.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82770f16d6bb7dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Унарный оператор.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e22b38a9de07556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Предикат.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64564ea0c5b59fa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бинарный оператор.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Лямбда-выражения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Лямбда-выражения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Лямбда-выражения.md"
+              }
             }
           }
         ]
@@ -210,34 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "11b6e7587cb4ea64",
+  "active": "b25d95304209e170",
   "lastOpenFiles": [
-    "Поставщик.md",
-    "Потребитель.md",
-    "Функция.md",
-    "Встроенные.md",
-    "Унарный оператор.md",
-    "Предикат.md",
-    "Бинарный оператор.md",
-    "fyec.md",
-    "Функциональный интерфейс.md",
-    "Пользовательские.md",
     "Лямбда-выражения.md",
+    "Предикат.md",
+    "Встроенные.md",
+    "Abstract.md",
+    "Функциональный интерфейс.md",
+    "Универсальный параметр.md",
+    "Дженерики.md",
+    "Сырые типы.md",
+    "Типизированные типы.md",
+    "Solid.md",
+    "На нестатический любого объекта конкретного типа.md",
+    "На конструктор.md",
+    "На нестатический конкретного объекта.md",
+    "На статический.md",
+    "Функция.md",
+    "Бинарный оператор.md",
+    "Ссылка на метод.md",
+    "Потребитель.md",
+    "Поставщик.md",
+    "Унарный оператор.md",
+    "fyec.md",
+    "Пользовательские.md",
     "Vector.md",
     "fail-fast.md",
     "fail-safe.md",
     "PriorityQueue.md",
-    "ArrayDeque.md",
-    "Set.md",
-    "HashSet.md",
-    "EnumSet.md",
-    "CopyOnWriteArraySet.md",
-    "ThreeSet.md",
-    "AbstractSet.md",
-    "Ser.md",
-    "AbstractCollection.md",
-    "LinkedHashSet.md",
-    "Collection.md",
     "linux_commands/1",
     "linux_commands",
     "Классы_обертки",
