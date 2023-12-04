@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11b6e7587cb4ea64",
+            "id": "ad3dce4fa3ff43bd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,55 +16,18 @@
             }
           },
           {
-            "id": "ad3dce4fa3ff43bd",
+            "id": "cd255ab5b408b786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стримы.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78de24646bfebb3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Терминальные методы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22e0a091a2c469c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Промежуточные методы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af50c9277fb5d886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spliterator.md",
+                "file": "Supplier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "стрим",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стримы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стримы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Стримы.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -194,32 +152,33 @@
   },
   "active": "ad3dce4fa3ff43bd",
   "lastOpenFiles": [
-    "Терминальные методы.md",
+    "Supplier.md",
+    "Статические методы.md",
+    "Concat.md",
+    "Empty.md",
+    "flatMaptoInt.md",
+    "flatMap.md",
     "Промежуточные методы.md",
+    "Лямбда-выражения.md",
+    "Предикат.md",
+    "Стрим.md",
+    "Стримы.md",
+    "Untitled.canvas",
+    "Терминальные методы.md",
     "java.util.Collection.md",
     "Spliterator.md",
-    "Стримы.md",
     "Функция.md",
     "Default.md",
     "Бинарный оператор.md",
     "Потребитель.md",
     "Функциональный интерфейс.md",
-    "Лямбда-выражения.md",
     "Private.md",
     "Инкапсуляция.md",
     "Модификаторы доступа.md",
     "Ссылка на метод.md",
     "For-each.md",
-    "Стрим.md",
-    "Предикат.md",
     "Вайлдкарды.md",
     "Сырые типы.md",
-    "HashMap.md",
-    "Унарный оператор.md",
-    "Поставщик.md",
-    "Универсальный параметр.md",
-    "Lower.md",
-    "Upper.md",
     "linux_commands/1",
     "linux_commands",
     "Классы_обертки",
@@ -230,7 +189,6 @@
     "home/andrei",
     "home",
     "images/Screenshot from 2023-10-12 11-58-44.png",
-    "images",
-    "Untitled.canvas"
+    "images"
   ]
 }
