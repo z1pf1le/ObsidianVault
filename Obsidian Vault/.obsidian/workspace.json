@@ -22,12 +22,25 @@
               "type": "markdown",
               "state": {
                 "file": "Supplier.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15ff56e91c3c517a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peek.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Supplier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Supplier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Supplier.md"
+              }
             }
           }
         ]
@@ -150,9 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad3dce4fa3ff43bd",
+  "active": "cd255ab5b408b786",
   "lastOpenFiles": [
+    "Untitled Folder",
+    "Peek.md",
     "Supplier.md",
+    "For-each.md",
     "Статические методы.md",
     "Concat.md",
     "Empty.md",
@@ -176,9 +196,6 @@
     "Инкапсуляция.md",
     "Модификаторы доступа.md",
     "Ссылка на метод.md",
-    "For-each.md",
-    "Вайлдкарды.md",
-    "Сырые типы.md",
     "linux_commands/1",
     "linux_commands",
     "Классы_обертки",
