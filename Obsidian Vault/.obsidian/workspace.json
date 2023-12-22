@@ -16,36 +16,36 @@
             }
           },
           {
-            "id": "2c4d76578df3b2be",
+            "id": "8542e04114e37da9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "filter.md",
+                "file": "ООП.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b4f016141cdfceb1",
+            "id": "3836fcdd438110c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "limit.md",
-                "mode": "preview",
+                "file": "For-each.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f30d1fc5cc6bee78",
+            "id": "5871972243a854f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flatMap.md",
+                "file": "Простой внутренний класс.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,9 +176,16 @@
   },
   "active": "ad3dce4fa3ff43bd",
   "lastOpenFiles": [
+    "ООП.md",
+    "Private.md",
+    "Простой внутренний класс.md",
+    "Локальный класс.md",
+    "Статический вложенный класс.md",
+    "Внутренний(вложенный) класс.md",
+    "sorted.md",
+    "filter.md",
     "limit.md",
     "flatMap.md",
-    "filter.md",
     "limit",
     "flatMaptoInt.md",
     "Терминальные методы.md",
@@ -198,13 +205,6 @@
     "Untitled.canvas",
     "java.util.Collection.md",
     "Spliterator.md",
-    "Функция.md",
-    "Default.md",
-    "Бинарный оператор.md",
-    "Потребитель.md",
-    "Функциональный интерфейс.md",
-    "Private.md",
-    "Инкапсуляция.md",
     "linux_commands/1",
     "linux_commands",
     "Классы_обертки",
