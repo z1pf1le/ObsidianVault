@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c37e7abdac66ac1",
+        "id": "c2d8f712e79b5f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3dce4fa3ff43bd",
+            "id": "d2d9536d5d218d85",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,31 +16,19 @@
             }
           },
           {
-            "id": "f4975028aafb6c19",
+            "id": "97139f32fbacb547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b80d1a05c481cc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate.md",
-                "mode": "source",
+                "file": "Анонимный вложенный класс.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "стрим",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200
   },
   "right": {
     "id": "3bf3f344ea806270",
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hibernate.md",
+                "file": "Анонимный вложенный класс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hibernate.md",
+                "file": "Анонимный вложенный класс.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hibernate.md"
+                "file": "Анонимный вложенный класс.md"
               }
             }
           }
@@ -154,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,10 +155,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b80d1a05c481cc5",
+  "active": "7a97f49bc04ebb50",
   "lastOpenFiles": [
-    "JPA.md",
+    "linux_commands/Untitled Folder",
+    "linux_commands/2 server",
+    "linux_commands/Untitled Document",
+    "Untitled",
+    "Локальный класс.md",
+    "Статический вложенный класс.md",
+    "Загрузчик классов.md",
+    "Javac.md",
+    "Простой внутренний класс.md",
+    "Абстрактный класс.md",
+    "For-each.md",
+    "Нестатические вложенные классы.md",
     "Hibernate.md",
+    "JPA.md",
     "ResultSet.md",
     "Statement.md",
     "Connection.md",
@@ -178,9 +178,6 @@
     "JDBC.md",
     "ООП.md",
     "Private.md",
-    "Простой внутренний класс.md",
-    "Локальный класс.md",
-    "Статический вложенный класс.md",
     "Внутренний(вложенный) класс.md",
     "sorted.md",
     "filter.md",
@@ -190,22 +187,13 @@
     "flatMaptoInt.md",
     "Терминальные методы.md",
     "Параллельные потоки.md",
-    "Промежуточные методы.md",
-    "Supplier.md",
     "Untitled Folder",
-    "Peek.md",
-    "For-each.md",
-    "Статические методы.md",
-    "Concat.md",
     "Untitled.canvas",
     "linux_commands/1",
     "linux_commands",
     "Классы_обертки",
     "Финализированный класс",
     "Виды классов",
-    "home/andrei/Documents/Obsidian Vault",
-    "home/andrei/Documents",
-    "home/andrei",
     "images/Screenshot from 2023-10-12 11-58-44.png"
   ]
 }
