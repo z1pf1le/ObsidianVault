@@ -16,19 +16,31 @@
             }
           },
           {
-            "id": "97139f32fbacb547",
+            "id": "9ee7727ac8030e42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Анонимный вложенный класс.md",
+                "file": "Многопоточность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87371d467373ca37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Поток.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Анонимный вложенный класс.md",
+                "file": "Поток.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Анонимный вложенный класс.md",
+                "file": "Поток.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Анонимный вложенный класс.md"
+                "file": "Поток.md"
               }
             }
           }
@@ -155,8 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a97f49bc04ebb50",
+  "active": "87371d467373ca37",
   "lastOpenFiles": [
+    "Многопоточность.md",
+    "Поток.md",
+    "Анонимный вложенный класс.md",
     "linux_commands/Untitled Folder",
     "linux_commands/2 server",
     "linux_commands/Untitled Document",
@@ -185,15 +200,12 @@
     "flatMap.md",
     "limit",
     "flatMaptoInt.md",
-    "Терминальные методы.md",
-    "Параллельные потоки.md",
     "Untitled Folder",
     "Untitled.canvas",
     "linux_commands/1",
     "linux_commands",
     "Классы_обертки",
     "Финализированный класс",
-    "Виды классов",
     "images/Screenshot from 2023-10-12 11-58-44.png"
   ]
 }
