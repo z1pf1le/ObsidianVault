@@ -1,0 +1,21 @@
+docker run -d --restart always --name nginx1 -p 81:81 -v /var/www/html:/usr/share/nginx/html nginx:stable
+
+docker run -f nginx
+
+docker run -d -p 80:80 nginx
+
+docker stop $(docker ps -q)
+закрыть все запущенные контейнеры
+
+docker run -it  node
+переход в консоль контейнера
+
+.exit
+выйти из консоль контейнера
+
+docker container prune
+удалить все неиспользуемые контейнеры
+
+Команда для разворачивания PostgreSQL в Docker:
+docker run -d --hostname pogreb --name pogreb -p 5432:5432 -e POSTGRES_USER=userok -e POSTGRES_PASSWORD=p@ssw0rd -e POSTGRES_DB=pogreb -v /data:/var/lib/postgresql/data --restart=unless-stopped postgres:14.5
+

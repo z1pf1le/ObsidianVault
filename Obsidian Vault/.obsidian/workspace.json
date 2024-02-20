@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Состояния потоков.md",
+                "file": "For-each.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Состояния потоков.md",
+                "file": "For-each.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Состояния потоков.md",
+                "file": "For-each.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Состояния потоков.md"
+                "file": "For-each.md"
               }
             }
           }
@@ -181,6 +181,7 @@
   },
   "active": "a7a3c058b0b990d7",
   "lastOpenFiles": [
+    "Состояния потоков.md",
     "Реализация интерфейса Runnable.md",
     "Наследование класса Thread.md",
     "Способы создания потока.md",
@@ -192,7 +193,6 @@
     "Переключение между потоками.md",
     "Потоки.md",
     "Thread.sleep().md",
-    "Состояния потоков.md",
     "Thread.isAlive().md",
     "Thread.join.md",
     "Untitled.md",
