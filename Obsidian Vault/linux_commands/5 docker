@@ -19,3 +19,22 @@ docker container prune
 Команда для разворачивания PostgreSQL в Docker:
 docker run -d --hostname pogreb --name pogreb -p 5432:5432 -e POSTGRES_USER=userok -e POSTGRES_PASSWORD=p@ssw0rd -e POSTGRES_DB=pogreb -v /data:/var/lib/postgresql/data --restart=unless-stopped postgres:14.5
 
+показать все образы
+docker images
+
+docker build -t accessing-data-jpa0 .
+
+docker run -d -p 54232:5432 accessing-data-jpa0
+
+service docker restart
+
+ удалить все контейнеры Docker
+docker rm $(docker ps -a -q)
+
+удалить все образы Docker
+docker rmi $(docker images -q)
+
+запустить образ посгре с указанными параметрами
+docker run --name my-postgres-db -p 5439:5432 -e POSTGRES_USER=root -e POSTGRES_PASSWORD=password -e POSTGRES_DB=myDB -d postgres
+
+
